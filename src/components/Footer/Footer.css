@@ -1,0 +1,11 @@
+/* Footer.css */
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* Ensures the footer stays above other content */
+    background-color: #fff; /* Background color for the footer */
+    border-top: 1px solid #ddd; /* Optional border for better visibility */
+  }
+  
